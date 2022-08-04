@@ -5,7 +5,7 @@ published: true
 
 # [](#client)client
 
-To connect to the MUD you first need a copy of [https://www.mudlet.org/download/](mudlet)
+To connect to the MUD you first need a copy of [mudlet](https://www.mudlet.org/download/)
 
 # [](DEFCON-Area-Contest)DEFCON-Area-Contest
 
