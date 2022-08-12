@@ -11,8 +11,6 @@ To connect to the MUD you first need a copy of [mudlet](https://www.mudlet.org/d
 
 There will be a defcon area making contest running, basically you build an area and then we judge it, if its found worthy it goes in the game. The best built area as judged by our secret panel of judges will win the prize.
 
-There will be 2x MUD's, one running on fluffos, and one running on gurbalib. Fluffos will have a menu based building tool and gurbalib is all code. People of all experience levels will be able to play and we will assist you at the DEFCON MUD Contest area.
-
 There will be a ticket for DEFCON 30 as a prize, and other random shenanigans.
 
 # [](CTF)CTF
