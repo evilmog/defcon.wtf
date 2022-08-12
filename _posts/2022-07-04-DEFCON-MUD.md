@@ -20,3 +20,6 @@ There will be multiple CTF's for the MUD, and those will be announced closer to 
 
 # [](MUD1)MUD1
 The gurbalib mud is a clone of the DEFCON 28 MUD, and can be found at mud.mog.ninja on port 4000 (NO TLS). Its source code can be found [here](https://github.com/DEFCON-MUD/defcon-28-mud-source-with-core).
+
+# [](MUD2)MUD2
+Cheeseworld, much old very wow, last running in 2005, written in 1996, connect to coremud.org port 3000, send proof of completing the newbie quest and we may give you an unlock code. 
